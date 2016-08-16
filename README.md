@@ -1,6 +1,6 @@
 ### Instructions
 * fork this repo
-* create a directory inside problems directory with your name X_Y
+* create a directory inside problems directory with your name First_Last
 * write a solution to the problem in any language
    * be creative, simple, efficient, and different 
 * create a README.md with the instruction on how to run your solution
