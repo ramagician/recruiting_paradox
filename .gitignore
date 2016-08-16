@@ -1,0 +1,5 @@
+.DC_Store
+*.pyc
+*.swp
+*~
+.idea/
