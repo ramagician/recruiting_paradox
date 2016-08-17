@@ -8,6 +8,7 @@ Given two words player 1 and player 2,
 Write a function that return the number of bulls and number of cows. For example,
 
 Player 1: The word: {{input}}
+
 Player 2: The guess: {{input}}
 
 bulls - 0, cows - 4 
@@ -15,9 +16,11 @@ bulls - 0, cows - 4
 Play again? [Y/n]
 
 Player 1: The word: {{input}}
+
 Player 2: The guess: {{input}}
 
 bulls - 3 cows - 1
 
 Play again? [Y/n]
+
 Good Bye!
