@@ -4,27 +4,27 @@
 
 * The Super Balanced property is defined as having the depth of all leaf nodes exactly different by one. For example the tree
 
-          (0)
-         /   \
-       (0)   (0)
+              (0)
+             /   \
+           (0)   (0)
 
   Has the difference of zero (is not super balanced), the tree
 
-         (0)
-        /   \
-      (0)   (0)
-      /
-    (0)
+               (0)
+              /   \
+            (0)   (0)
+            /
+          (0)
 
   Has the difference of one (is super balanced), and
 
-        (0)
-       /   \
-     (0)   (0)
-     /
-   (0)
-   /
- (0)
+                (0)
+               /   \
+             (0)   (0)
+             /
+           (0)
+           /
+         (0)
 
   Has the difference of two and is thus not super balanced.
 
