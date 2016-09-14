@@ -1,0 +1,4 @@
+a b c, b d, c e
+a b c, b d e, c f g
+a b c, b, c d e, d f, e g
+a b, b c, c d
